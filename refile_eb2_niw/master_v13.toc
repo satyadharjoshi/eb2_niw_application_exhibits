@@ -1,0 +1,66 @@
+\contentsline {chapter}{\numberline {1}Covering Letter}{1}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Future Endeavors and Impact in US National Interest by Satyadhar Joshi}{2}{chapter.2}%
+\contentsline {chapter}{\numberline {3}Response to USCIS RFE: EB2 NIW Petition for Satyadhar Joshi}{4}{chapter.3}%
+\contentsline {section}{\numberline {3.1}EB2 National Interest Waiver (NIW) Application: Enhancing US financial resilience through Gen AI and Big Data}{4}{section.3.1}%
+\contentsline {section}{\numberline {3.2}A. Executive Summary}{4}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}(i) Eligibility}{5}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}(ii) National Interest Waiver Justification}{7}{subsection.3.2.2}%
+\contentsline {section}{\numberline {3.3}B. Professional Experience with US Banks and Contributions to Financial Stability}{8}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}(i) Quantitative Risk Management at Bank of America (2019- Current)}{8}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}(ii) Innovations in Monte Carlo Simulation and Validation at XL Catlin US Portfolio (2014-2015)}{9}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.3}(iii) Innovations in Quantitative Modeling and Corporate Finance at Genpact End Client Wells Fargo Bank (2012-2014)}{9}{subsection.3.3.3}%
+\contentsline {subsection}{\numberline {3.3.4}(iv) Big Data and Machine Learning Online Training at QcFinance 2011-2012 \& 2015-2016}{9}{subsection.3.3.4}%
+\contentsline {subsection}{\numberline {3.3.5}Recommendation from past supervisors at different Banks}{10}{subsection.3.3.5}%
+\contentsline {section}{\numberline {3.4}C. Academic Contributions, Scholarly \& Industry Impact}{10}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Online Research Profiles}{10}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}Google Scholar Profile}{10}{subsection.3.4.2}%
+\contentsline {subsection}{\numberline {3.4.3}(i) Highlighted Publications Journal Publications \& Book Chapters}{11}{subsection.3.4.3}%
+\contentsline {subsection}{\numberline {3.4.4}(iii) Recommendation from industry experts showing appreciation and importance of Mr. Joshi's work}{11}{subsection.3.4.4}%
+\contentsline {subsection}{\numberline {3.4.5}(iv) Books Published}{11}{subsection.3.4.5}%
+\contentsline {section}{\numberline {3.5}F. Exhibits and Attachments}{11}{section.3.5}%
+\contentsline {section}{\numberline {3.6}E. Future Endeavors and Impact}{14}{section.3.6}%
+\contentsline {subsection}{\numberline {3.6.1}(i) Future Work}{14}{subsection.3.6.1}%
+\contentsline {subsection}{\numberline {3.6.2}(ii) Future Work in Training: Empowering Veterans and Hard Working Americans: A Volunteer-Driven Initiative for Skills and Success}{14}{subsection.3.6.2}%
+\contentsline {subsubsection}{A Mission to Honor Service and Build Independence}{14}{section*.7}%
+\contentsline {subsubsection}{Online Education for Practical Skills and Careers}{15}{section*.8}%
+\contentsline {subsubsection}{Proven Success in Education}{15}{section*.9}%
+\contentsline {subsubsection}{Volunteer-Driven and Community-Supported}{15}{section*.10}%
+\contentsline {section}{\numberline {3.7}Future Endeavors and Impact}{15}{section.3.7}%
+\contentsline {subsection}{\numberline {3.7.1}Future Work in Training: Empowering Veterans and Hard Working Americans: A Volunteer-Driven Initiative for Skills and Success}{16}{subsection.3.7.1}%
+\contentsline {subsubsection}{A Mission to Honor Service and Build Independence}{16}{section*.11}%
+\contentsline {subsubsection}{Online Education for Practical Skills and Careers}{16}{section*.12}%
+\contentsline {subsubsection}{Proven Success in Education}{17}{section*.13}%
+\contentsline {subsubsection}{Volunteer-Driven and Community-Supported}{17}{section*.14}%
+\contentsline {subsection}{\numberline {3.7.2}Ongoing Research and Contributions at Bank of America}{17}{subsection.3.7.2}%
+\contentsline {subsection}{\numberline {3.7.3}Educational and Research Initiatives inside and outside Workplace}{18}{subsection.3.7.3}%
+\contentsline {subsection}{\numberline {3.7.4}Empowering Veterans and Hardworking Americans}{18}{subsection.3.7.4}%
+\contentsline {subsubsection}{Mission and Principles}{18}{section*.15}%
+\contentsline {subsubsection}{Online Education for Practical Skills}{19}{section*.16}%
+\contentsline {subsubsection}{Proven Success in Education}{19}{section*.17}%
+\contentsline {subsubsection}{Volunteer-Driven and Community-Supported}{19}{section*.18}%
+\contentsline {section}{\numberline {3.8}Conclusion}{20}{section.3.8}%
+\contentsline {section}{\numberline {3.9}Introduction}{20}{section.3.9}%
+\contentsline {subsection}{\numberline {3.9.1}Job Description and SOC Code}{20}{subsection.3.9.1}%
+\contentsline {chapter}{\numberline {4}Exhibits List of Publications by Mr Joshi }{23}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Education Policy Papers by Mr Joshi for Re-training US Workforce}{31}{section.4.1}%
+\contentsline {chapter}{\numberline {5}Exhibits Udemy }{45}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Udemy: Current Enrollments in Open Access Free Education Initiatives}{45}{section.5.1}%
+\contentsline {chapter}{\numberline {6}Exhibits Two Open access books }{46}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Gen AI for Workforce Development and Training}{46}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Gen AI in Finance}{46}{section.6.2}%
+\contentsline {chapter}{\numberline {A}Exhibits 1 Resume}{47}{appendix.A}%
+\contentsline {chapter}{\numberline {B}Exhibits 2.1 Research Profiles and Citation}{48}{appendix.B}%
+\contentsline {section}{\numberline {B.1}Exhibits 2.1 Research Profiles}{48}{section.B.1}%
+\contentsline {section}{\numberline {B.2}Exhibits 2.2 Citations}{48}{section.B.2}%
+\contentsline {chapter}{\numberline {C}Exhibits 3 LORs and Recommender's Profile}{49}{appendix.C}%
+\contentsline {section}{\numberline {C.1}Exhibits 3.1 LORs}{49}{section.C.1}%
+\contentsline {section}{\numberline {C.2}Exhibits 3.2 Recommender's Profile}{49}{section.C.2}%
+\contentsline {chapter}{\numberline {D}Exhibits 4 Publications}{50}{appendix.D}%
+\contentsline {chapter}{\numberline {E}Exhibits 5 Academic Degrees and Evaluations}{51}{appendix.E}%
+\contentsline {chapter}{\numberline {F}Exhibits 6 Awards}{52}{appendix.F}%
+\contentsline {chapter}{\numberline {G}Exhibits 7 Review and Editorial Acclaims}{53}{appendix.G}%
+\contentsline {chapter}{\numberline {H}Exhibits 8 Professional Certification}{54}{appendix.H}%
+\contentsline {chapter}{\numberline {I}Exhibits 9 Volunteering Education Initiatives }{55}{appendix.I}%
+\contentsline {chapter}{\numberline {J}Exhibit 10 Work Experience EVLs }{56}{appendix.J}%
+\contentsline {chapter}{\numberline {K}Exhibit 11 H1B Status, WorkPaystubs W2s Income Verification }{57}{appendix.K}%
+\contentsline {chapter}{\numberline {L}Exhibit 12 BoFA Performance Reviews }{58}{appendix.L}%

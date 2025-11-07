@@ -1,0 +1,176 @@
+\contentsline {chapter}{\numberline {1}Introduction and Executive Summary}{1}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Legal Criteria and Eligibility}{3}{chapter.2}%
+\contentsline {subsection}{\numberline {2.0.1}Advanced Degree and Equivalent Qualifications (8 CFR § 204.5(k)(2))}{3}{subsection.2.0.1}%
+\contentsline {section}{\numberline {2.1}International Government and Quasi-Government Recognition of Research}{3}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}United States Government Recognition}{3}{subsection.2.1.1}%
+\contentsline {subsubsection}{U.S. Department of Energy - Science.gov}{3}{section*.2}%
+\contentsline {subsubsection}{U.S. Federal Reserve Board}{4}{section*.3}%
+\contentsline {subsubsection}{U.S. Bureau of Labor Statistics (BLS)}{4}{section*.4}%
+\contentsline {subsection}{\numberline {2.1.2}International Government Recognition}{4}{subsection.2.1.2}%
+\contentsline {subsubsection}{China - SciEngine (China Science Publishing \& Media Ltd.)}{4}{section*.5}%
+\contentsline {subsubsection}{United Kingdom - CORE.ac.uk}{4}{section*.6}%
+\contentsline {subsubsection}{Ukraine - Open Ukrainian Citation Index (OUCI)}{5}{section*.7}%
+\contentsline {subsection}{\numberline {2.1.3}Quasi-Government and Institutional Recognition}{5}{subsection.2.1.3}%
+\contentsline {subsubsection}{Academic Integration - International Institutions}{5}{section*.8}%
+\contentsline {subsubsection}{Government-Affiliated Indexing Services}{5}{section*.9}%
+\contentsline {subsection}{\numberline {2.1.4}Summary of Government Recognition Impact}{5}{subsection.2.1.4}%
+\contentsline {subsection}{\numberline {2.1.5}Conclusion on Government Recognition}{5}{subsection.2.1.5}%
+\contentsline {section}{\numberline {2.2}Demonstrated Influence and Dissemination of Research at US Universities}{6}{section.2.2}%
+\contentsline {chapter}{\numberline {3}Proposed Endeavor: National Interest Statement}{8}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Overview}{8}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Initiative 1: Advancing Agentic Gen AI in Financial and Economic Risk}{8}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Initiative 2: Open-Source Research and Knowledge Dissemination on Agentic Gen AI}{9}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Initiative 3: Workforce Development and Training, Thought Leadership of Gen AI Application in Education and Health}{10}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Initiative 4: Defense and National Security Applications of AI}{10}{section.3.5}%
+\contentsline {section}{\numberline {3.6}Initiative 5: Advanced AI Research and Technical Innovation}{11}{section.3.6}%
+\contentsline {section}{\numberline {3.7}Nonprofit Startup Endeavor and Relevant Expertise}{11}{section.3.7}%
+\contentsline {subsection}{\numberline {3.7.1}International Startup MBA in Israel and Current Location in NYC}{11}{subsection.3.7.1}%
+\contentsline {section}{\numberline {3.8}Five-Year Timeline and Milestones}{12}{section.3.8}%
+\contentsline {subsection}{\numberline {3.8.1}Advancing Agentic Gen AI System Resilience through AI}{12}{subsection.3.8.1}%
+\contentsline {subsection}{\numberline {3.8.2}Research and Knowledge Dissemination}{13}{subsection.3.8.2}%
+\contentsline {subsection}{\numberline {3.8.3}Workforce Development and Education}{13}{subsection.3.8.3}%
+\contentsline {subsection}{\numberline {3.8.4}Defense and National Security Applications}{13}{subsection.3.8.4}%
+\contentsline {section}{\numberline {3.9}Substantial Merit and National Importance}{13}{section.3.9}%
+\contentsline {subsection}{\numberline {3.9.1}Alignment with National Priorities}{13}{subsection.3.9.1}%
+\contentsline {subsubsection}{Agentic Gen AI System Stability for Finance, Economics and Health}{13}{section*.13}%
+\contentsline {subsubsection}{Technological Innovation and Business Leadership}{14}{section*.14}%
+\contentsline {subsubsection}{Workforce Development}{14}{section*.15}%
+\contentsline {subsubsection}{National Security and Defense}{14}{section*.16}%
+\contentsline {subsection}{\numberline {3.9.2}Evidence of Impact and Recognition}{14}{subsection.3.9.2}%
+\contentsline {subsubsection}{Professional Impact}{14}{section*.17}%
+\contentsline {subsubsection}{Defense and Security Contributions}{15}{section*.18}%
+\contentsline {section}{\numberline {3.10}Future Plans and Projected Impact}{15}{section.3.10}%
+\contentsline {subsection}{\numberline {3.10.1}Research and Development Goals}{15}{subsection.3.10.1}%
+\contentsline {subsection}{\numberline {3.10.2}Workforce Development Initiatives}{16}{subsection.3.10.2}%
+\contentsline {subsection}{\numberline {3.10.3}Five-Year Impact Projection}{16}{subsection.3.10.3}%
+\contentsline {section}{\numberline {3.11}Conclusion}{17}{section.3.11}%
+\contentsline {section}{\numberline {3.12}Referencing Evidences related to this Chapter}{18}{section.3.12}%
+\contentsline {chapter}{\numberline {4}Proven Contributions to Defense, Secure Multi Party Computation and Cyber Security}{20}{chapter.4}%
+\contentsline {section}{\numberline {4.1}National Importance: Critical Contributions to U.S. Defense and Cybersecurity}{20}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Securing Military Operations with Advanced Cryptography}{20}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}Advancing Cybersecurity through Agentic AI and HPC}{21}{subsection.4.1.2}%
+\contentsline {subsection}{\numberline {4.1.3}Strategic Analysis of Defense Partnerships}{21}{subsection.4.1.3}%
+\contentsline {subsection}{\numberline {4.1.4}Alignment with U.S. Defense Priorities}{21}{subsection.4.1.4}%
+\contentsline {subsection}{\numberline {4.1.5}Conclusion on Defense Criticality}{22}{subsection.4.1.5}%
+\contentsline {chapter}{\numberline {5}Uniqueness and Innovation of Proposed Methodology}{23}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Comparative Analysis: Conventional vs. Innovative Approaches}{23}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Evidence of Innovation and Uniqueness}{24}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}Federal Recognition and Adoption}{24}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.2.2}Quantifiable Impact Metrics}{25}{subsection.5.2.2}%
+\contentsline {section}{\numberline {5.3}Snowball Effect: Growing National Impact}{25}{section.5.3}%
+\contentsline {subsection}{\numberline {5.3.1}Research Dissemination Growth}{25}{subsection.5.3.1}%
+\contentsline {subsection}{\numberline {5.3.2}Workforce Development Expansion}{25}{subsection.5.3.2}%
+\contentsline {subsection}{\numberline {5.3.3}Policy Influence Trajectory}{26}{subsection.5.3.3}%
+\contentsline {section}{\numberline {5.4}Alignment with National Priorities}{26}{section.5.4}%
+\contentsline {section}{\numberline {5.5}Conclusion: Demonstrated Innovation with National Impact}{26}{section.5.5}%
+\contentsline {chapter}{\numberline {6}Potential Prospective Impact (PPI)}{28}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Quantified Impact Projections}{28}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}Proposed Possible Economic Impact}{28}{subsection.6.1.1}%
+\contentsline {subsection}{\numberline {6.1.2}Proposed Possible Workforce Impact}{28}{subsection.6.1.2}%
+\contentsline {subsection}{\numberline {6.1.3}Proposed Possible Regulatory and Policy Impact}{29}{subsection.6.1.3}%
+\contentsline {subsection}{\numberline {6.1.4}Proposed Possible Research and Knowledge Dissemination}{29}{subsection.6.1.4}%
+\contentsline {section}{\numberline {6.2}Validation by Independent Experts}{29}{section.6.2}%
+\contentsline {subsection}{\numberline {6.2.1}Dr. Mohd Anjum}{29}{subsection.6.2.1}%
+\contentsline {subsection}{\numberline {6.2.2}Dr. Malik Missan }{30}{subsection.6.2.2}%
+\contentsline {subsection}{\numberline {6.2.3}Dr. Asif Umer }{30}{subsection.6.2.3}%
+\contentsline {section}{\numberline {6.3}Evidence-Based Projection Methodology}{30}{section.6.3}%
+\contentsline {subsection}{\numberline {6.3.1}Historical Growth Trends}{30}{subsection.6.3.1}%
+\contentsline {subsection}{\numberline {6.3.2}Market Demand Indicators}{30}{subsection.6.3.2}%
+\contentsline {subsection}{\numberline {6.3.3}Government Priority Alignment}{30}{subsection.6.3.3}%
+\contentsline {section}{\numberline {6.4}Comparative Impact Assessment}{31}{section.6.4}%
+\contentsline {section}{\numberline {6.5}Risk Mitigation and Contingency Planning}{31}{section.6.5}%
+\contentsline {subsection}{\numberline {6.5.1}Funding Variability}{31}{subsection.6.5.1}%
+\contentsline {subsection}{\numberline {6.5.2}Regulatory Changes}{31}{subsection.6.5.2}%
+\contentsline {subsection}{\numberline {6.5.3}Technology Evolution}{31}{subsection.6.5.3}%
+\contentsline {section}{\numberline {6.6}International Govt / Quasi Govt Citation of Work}{32}{section.6.6}%
+\contentsline {section}{\numberline {6.7}Conclusion: Compelling Evidence of National Impact}{33}{section.6.7}%
+\contentsline {chapter}{\numberline {7}Prong 1: Substantial Merit and National Importance}{34}{chapter.7}%
+\contentsline {section}{\numberline {7.1}USCIS and Dhanasar Framework Definition}{34}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Evidence of Substantial Merit}{34}{section.7.2}%
+\contentsline {section}{\numberline {7.3}National Importance: Alignment with US Policy and Economic Needs}{34}{section.7.3}%
+\contentsline {section}{\numberline {7.4}External Validation and Broader Impact}{35}{section.7.4}%
+\contentsline {subsubsection}{Evidence of National Importance Achievement through Federal Scientific Indexing}{37}{section*.21}%
+\contentsline {subsubsection}{Evidence of National Importance Achievement through BLS Indexing}{37}{section*.22}%
+\contentsline {subsubsection}{Projected Impact and Future Work}{37}{section*.24}%
+\contentsline {subsection}{\numberline {7.4.1}U.S. Training Initiatives by Open Non-Profit and Research Center}{38}{subsection.7.4.1}%
+\contentsline {subsection}{\numberline {7.4.2}Non-Profit Policy Research Center for Financial AI}{39}{subsection.7.4.2}%
+\contentsline {subsection}{\numberline {7.4.3}Detailed Proposed Endeavor in Three Domains}{40}{subsection.7.4.3}%
+\contentsline {subsubsection}{AI-Driven Financial Risk Management Endeavor}{42}{section*.25}%
+\contentsline {subsubsection}{Workforce Upskilling for AI Integration Endeavor}{42}{section*.26}%
+\contentsline {subsubsection}{Regulatory-Compliant AI Agents Research Endeavor}{42}{section*.27}%
+\contentsline {subsubsection}{Strategic Policy Development Research Endeavor}{43}{section*.28}%
+\contentsline {section}{\numberline {7.5}Projected Five-Year Endeavor and National Economic Impact}{43}{section.7.5}%
+\contentsline {subsection}{\numberline {7.5.1}Five-Year Plan for Advancing Financial AI (2025-2030)}{46}{subsection.7.5.1}%
+\contentsline {subsubsection}{Endeavor Research and Publication Goals}{46}{section*.29}%
+\contentsline {subsubsection}{Endeavor Workforce Development Initiatives}{46}{section*.30}%
+\contentsline {subsubsection}{Endeavor Technology Implementation Roadmap}{47}{section*.31}%
+\contentsline {subsection}{\numberline {7.5.2}Endeavor Open Source Free Course and Training Content Production Roadmap}{47}{subsection.7.5.2}%
+\contentsline {subsection}{\numberline {7.5.3}Future Endeavor and Research Dissemination Strategy 2025-2030}{47}{subsection.7.5.3}%
+\contentsline {subsubsection}{Open Access Research Contributions Till Date: Refer to papers Exhibit~\ref {chap:exhibit_l_p}}{48}{section*.32}%
+\contentsline {subsection}{\numberline {7.5.4}Endeavor Ongoing and Future Contributions as Peer Reviewer and Subject-Matter Expert (2025-3020)}{50}{subsection.7.5.4}%
+\contentsline {subsection}{\numberline {7.5.5}Final words on Prong 1: Alignment with National Interest}{51}{subsection.7.5.5}%
+\contentsline {section}{\numberline {7.6}Integrated Five-Year Implementation Plan: Building on Proven Impact}{52}{section.7.6}%
+\contentsline {subsection}{\numberline {7.6.1}Foundation: Current Achievements and Momentum}{52}{subsection.7.6.1}%
+\contentsline {subsection}{\numberline {7.6.2}Year-by-Year Implementation Timeline}{52}{subsection.7.6.2}%
+\contentsline {subsubsection}{2025–2026: Consolidation and Strategic Expansion}{52}{section*.33}%
+\contentsline {subsubsection}{2026–2027: Measurable National Impact}{53}{section*.34}%
+\contentsline {subsubsection}{2027–2028: Entrenchment as a National Resource}{53}{section*.35}%
+\contentsline {subsubsection}{2028–2030: Sustained Leadership and Legacy}{53}{section*.36}%
+\contentsline {subsection}{\numberline {7.6.3}Quantified Impact Projections}{53}{subsection.7.6.3}%
+\contentsline {subsection}{\numberline {7.6.4}Risk Mitigation and Contingency Planning}{54}{subsection.7.6.4}%
+\contentsline {subsection}{\numberline {7.6.5}Conclusion: A Natural Trajectory of National Benefit}{54}{subsection.7.6.5}%
+\contentsline {chapter}{\numberline {8}Prong 2: Well-Positioned to Advance the Endeavor}{55}{chapter.8}%
+\contentsline {subsection}{\numberline {8.0.1}Professional Experience (8 CFR § 204.5(k)(2))}{55}{subsection.8.0.1}%
+\contentsline {section}{\numberline {8.1}Well-Positioned to Advance the Endeavor}{55}{section.8.1}%
+\contentsline {subsection}{\numberline {8.1.1}Technical Expertise and Specialized Knowledge}{55}{subsection.8.1.1}%
+\contentsline {subsection}{\numberline {8.1.2}Proven Track Record of Success}{56}{subsection.8.1.2}%
+\contentsline {subsubsection}{Bank of America (2019-Present)}{56}{section*.37}%
+\contentsline {subsubsection}{XL Catlin (2014-2015)}{56}{section*.38}%
+\contentsline {subsubsection}{Genpact/Wells Fargo (2012-2014)}{56}{section*.39}%
+\contentsline {subsubsection}{QcFinance India (2011-2012, 2015-2016)}{57}{section*.40}%
+\contentsline {subsection}{\numberline {8.1.3}Research and Publication Record}{57}{subsection.8.1.3}%
+\contentsline {subsection}{\numberline {8.1.4}Professional Network and Collaborations}{57}{subsection.8.1.4}%
+\contentsline {chapter}{\numberline {9}Prong 3: Balancing Factors}{59}{chapter.9}%
+\contentsline {section}{\numberline {9.1}National Benefit of Waiving Job Offer Requirement}{59}{section.9.1}%
+\contentsline {subsection}{\numberline {9.1.1}Unique Qualifications and Specialized Expertise}{59}{subsection.9.1.1}%
+\contentsline {subsection}{\numberline {9.1.2}Urgent National Needs}{59}{subsection.9.1.2}%
+\contentsline {subsection}{\numberline {9.1.3}Benefits Beyond a Single Employer}{60}{subsection.9.1.3}%
+\contentsline {subsection}{\numberline {9.1.4}Impracticality of Labor Certification}{60}{subsection.9.1.4}%
+\contentsline {subsection}{\numberline {9.1.5}National Interest Justification for PERM Waiver}{61}{subsection.9.1.5}%
+\contentsline {subsection}{\numberline {9.1.6}Peer-Reviewed Research Contributions to Policy Research for U.S. National Interest}{62}{subsection.9.1.6}%
+\contentsline {subsubsection}{Peer-Reviewed Publications by the Applicant}{62}{section*.43}%
+\contentsline {subsubsection}{Alignment with U.S. National Priorities}{63}{section*.44}%
+\contentsline {subsubsection}{Unique Editorial Contributions Strengthening U.S. Economic Stability}{63}{section*.45}%
+\contentsline {subsubsection}{Specialized Reviewing for Financial Risk Innovation}{63}{section*.46}%
+\contentsline {subsubsection}{Peer Review Value Proposition}{63}{section*.47}%
+\contentsline {subsection}{\numberline {9.1.7}Open Ebook Publications Supporting Policy and Workforce Innovation}{64}{subsection.9.1.7}%
+\contentsline {subsection}{\numberline {9.1.8}Conclusion}{65}{subsection.9.1.8}%
+\contentsline {section}{\numberline {9.2}Conclusion}{65}{section.9.2}%
+\contentsline {chapter}{\numberline {10}Conclusion: Comprehensive Response to USCIS Past Denial}{66}{chapter.10}%
+\contentsline {section}{\numberline {10.1}Direct Response to USCIS Concerns}{66}{section.10.1}%
+\contentsline {subsection}{\numberline {10.1.1}Response to Prior USCIS Decision}{66}{subsection.10.1.1}%
+\contentsline {subsection}{\numberline {10.1.2}Clarification Regarding Authorship and Evidence Integrity}{67}{subsection.10.1.2}%
+\contentsline {subsection}{\numberline {10.1.3}National Importance and Unique Methodology}{67}{subsection.10.1.3}%
+\contentsline {subsection}{\numberline {10.1.4}Potential Prospective Impact Beyond Immediate Role}{67}{subsection.10.1.4}%
+\contentsline {subsection}{\numberline {10.1.5}National Benefit of Waiving Labor Certification}{68}{subsection.10.1.5}%
+\contentsline {section}{\numberline {10.2}Satisfaction of Dhanasar Framework}{68}{section.10.2}%
+\contentsline {subsection}{\numberline {10.2.1}Prong 1: Substantial Merit and National Importance}{68}{subsection.10.2.1}%
+\contentsline {subsection}{\numberline {10.2.2}Prong 2: Well-Positioned to Advance the Endeavor}{69}{subsection.10.2.2}%
+\contentsline {subsection}{\numberline {10.2.3}Prong 3: National Benefit of Waiving Requirements}{69}{subsection.10.2.3}%
+\contentsline {section}{\numberline {10.3}Conclusion}{69}{section.10.3}%
+\contentsline {chapter}{\numberline {11}Recent Contributions}{70}{chapter.11}%
+\contentsline {section}{\numberline {11.1}Recent Research Contributions Demonstrating National Impact}{70}{section.11.1}%
+\contentsline {subsection}{\numberline {11.1.1}Education Policy and AI Integration}{70}{subsection.11.1.1}%
+\contentsline {subsection}{\numberline {11.1.2}Financial System Innovation}{70}{subsection.11.1.2}%
+\contentsline {subsection}{\numberline {11.1.3}Workforce Development and AI Training}{70}{subsection.11.1.3}%
+\contentsline {subsection}{\numberline {11.1.4}Advanced AI Technical Frameworks}{71}{subsection.11.1.4}%
+\contentsline {subsection}{\numberline {11.1.5}Risk Management and Financial Stability}{71}{subsection.11.1.5}%
+\contentsline {subsection}{\numberline {11.1.6}AI Leadership and Organizational Impact}{71}{subsection.11.1.6}%
+\contentsline {subsection}{\numberline {11.1.7}Technical AI Methodologies}{71}{subsection.11.1.7}%
+\contentsline {subsection}{\numberline {11.1.8}Financial Market Applications}{71}{subsection.11.1.8}%
+\contentsline {subsection}{\numberline {11.1.9}Comprehensive AI Reviews}{72}{subsection.11.1.9}%
+\contentsline {subsection}{\numberline {11.1.10}AI Infrastructure and Engineering}{72}{subsection.11.1.10}%
+\contentsline {section}{\numberline {11.2}Public Dissemination: Scholars Repository Listing}{72}{section.11.2}%
+\contentsline {section}{\numberline {11.3}Research Impact and Dissemination}{72}{section.11.3}%
+\contentsline {subsection}{\numberline {11.3.1}Policy Relevance and Implementation}{72}{subsection.11.3.1}%
+\contentsline {chapter}{\numberline {12}Exhibits Documentation}{74}{chapter.12}%

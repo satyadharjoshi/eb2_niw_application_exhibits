@@ -1,0 +1,100 @@
+\contentsline {chapter}{\numberline {1}EB2 NIW Petition for Satyadhar Joshi}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}EB2 National Interest Waiver (NIW) Application: Enhancing US financial resilience through Gen AI and Big Data}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}A. Executive Summary}{1}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}(i) Eligibility}{2}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}(ii) National Interest Waiver Justification}{4}{subsection.1.2.2}%
+\contentsline {section}{\numberline {1.3}B. Professional Experience with US Banks and Contributions to Financial Stability}{5}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}(i) Quantitative Risk Management at Bank of America (2019- Current)}{5}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.3.2}(ii) Innovations in Monte Carlo Simulation and Validation at XL Catlin US Portfolio (2014-2015)}{6}{subsection.1.3.2}%
+\contentsline {subsection}{\numberline {1.3.3}(iii) Innovations in Quantitative Modeling and Corporate Finance at Genpact End Client Wells Fargo Bank (2012-2014)}{6}{subsection.1.3.3}%
+\contentsline {subsection}{\numberline {1.3.4}(iv) Big Data and Machine Learning Online Training at QcFinance 2011-2012 \& 2015-2016}{6}{subsection.1.3.4}%
+\contentsline {subsection}{\numberline {1.3.5}Recommendation from past supervisors at different Banks}{7}{subsection.1.3.5}%
+\contentsline {section}{\numberline {1.4}C. Academic Contributions, Scholarly \& Industry Impact}{7}{section.1.4}%
+\contentsline {subsection}{\numberline {1.4.1}Online Research Profiles}{7}{subsection.1.4.1}%
+\contentsline {subsection}{\numberline {1.4.2}Google Scholar Profile}{7}{subsection.1.4.2}%
+\contentsline {subsection}{\numberline {1.4.3}(i) Highlighted Publications Journal Publications \& Book Chapters}{8}{subsection.1.4.3}%
+\contentsline {subsection}{\numberline {1.4.4}(iii) Recommendation from industry experts showing appreciation and importance of Mr. Joshi's work}{8}{subsection.1.4.4}%
+\contentsline {subsection}{\numberline {1.4.5}(iv) Books Published}{8}{subsection.1.4.5}%
+\contentsline {section}{\numberline {1.5}F. Exhibits and Attachments}{8}{section.1.5}%
+\contentsline {section}{\numberline {1.6}E. Future Endeavors and Impact}{11}{section.1.6}%
+\contentsline {subsection}{\numberline {1.6.1}(i) Future Work}{11}{subsection.1.6.1}%
+\contentsline {subsection}{\numberline {1.6.2}(ii) Future Work in Training: Empowering Veterans and Hard Working Americans: A Volunteer-Driven Initiative for Skills and Success}{11}{subsection.1.6.2}%
+\contentsline {subsubsection}{A Mission to Honor Service and Build Independence}{11}{section*.6}%
+\contentsline {subsubsection}{Online Education for Practical Skills and Careers}{12}{section*.7}%
+\contentsline {subsubsection}{Proven Success in Education}{12}{section*.8}%
+\contentsline {subsubsection}{Volunteer-Driven and Community-Supported}{12}{section*.9}%
+\contentsline {section}{\numberline {1.7}Future Endeavors and Impact}{12}{section.1.7}%
+\contentsline {subsection}{\numberline {1.7.1}Future Work in Training: Empowering Veterans and Hard Working Americans: A Volunteer-Driven Initiative for Skills and Success}{13}{subsection.1.7.1}%
+\contentsline {subsubsection}{A Mission to Honor Service and Build Independence}{13}{section*.10}%
+\contentsline {subsubsection}{Online Education for Practical Skills and Careers}{13}{section*.11}%
+\contentsline {subsubsection}{Proven Success in Education}{14}{section*.12}%
+\contentsline {subsubsection}{Volunteer-Driven and Community-Supported}{14}{section*.13}%
+\contentsline {subsection}{\numberline {1.7.2}Ongoing Research and Contributions at Bank of America}{14}{subsection.1.7.2}%
+\contentsline {subsection}{\numberline {1.7.3}Educational and Research Initiatives inside and outside Workplace}{15}{subsection.1.7.3}%
+\contentsline {subsection}{\numberline {1.7.4}Empowering Veterans and Hardworking Americans}{15}{subsection.1.7.4}%
+\contentsline {subsubsection}{Mission and Principles}{15}{section*.14}%
+\contentsline {subsubsection}{Online Education for Practical Skills}{16}{section*.15}%
+\contentsline {subsubsection}{Proven Success in Education}{16}{section*.16}%
+\contentsline {subsubsection}{Volunteer-Driven and Community-Supported}{16}{section*.17}%
+\contentsline {section}{\numberline {1.8}Conclusion}{17}{section.1.8}%
+\contentsline {section}{\numberline {1.9}Introduction}{17}{section.1.9}%
+\contentsline {subsection}{\numberline {1.9.1}Job Description and SOC Code}{17}{subsection.1.9.1}%
+\contentsline {section}{\numberline {1.10}Summarizing RFE and Response to RFE Deficiencies}{18}{section.1.10}%
+\contentsline {chapter}{\numberline {2}Prong 1: Substantial Merit and National Importance}{20}{chapter.2}%
+\contentsline {subsection}{\numberline {2.0.1}Substantial Merit}{20}{subsection.2.0.1}%
+\contentsline {subsubsection}{Evidence of National Importance through Federal Scientific Indexing}{22}{section*.18}%
+\contentsline {subsubsection}{Projected Impact and Future Work}{22}{section*.19}%
+\contentsline {subsection}{\numberline {2.0.2}U.S. Training Initiatives by Open Non-Profit and Research Center}{23}{subsection.2.0.2}%
+\contentsline {subsection}{\numberline {2.0.3}Non-Profit Policy Research Center for Financial AI}{24}{subsection.2.0.3}%
+\contentsline {subsection}{\numberline {2.0.4}Detailed Proposed Endeavor in Three Domains}{25}{subsection.2.0.4}%
+\contentsline {subsubsection}{AI-Driven Financial Risk Management Endeavor}{26}{section*.20}%
+\contentsline {subsubsection}{Workforce Upskilling for AI Integration Endeavor}{26}{section*.21}%
+\contentsline {subsubsection}{Regulatory-Compliant AI Agents Research Endeavor }{27}{section*.22}%
+\contentsline {subsubsection}{Strategic Policy Development Research Endeavor}{27}{section*.23}%
+\contentsline {section}{\numberline {2.1}Projected Five-Year Endeavor and National Economic Impact}{27}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Five-Year Plan for Advancing Financial AI (2025-2030)}{29}{subsection.2.1.1}%
+\contentsline {subsubsection}{Endeavor Research and Publication Goals}{29}{section*.24}%
+\contentsline {subsubsection}{Endeavor Workforce Development Initiatives}{30}{section*.25}%
+\contentsline {subsubsection}{Endeavor Technology Implementation Roadmap}{31}{section*.26}%
+\contentsline {subsection}{\numberline {2.1.2}Endeavor Open Source Free Course and Training Content Production Roadmap}{31}{subsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.1.3}Future Endeavor and Research Dissemination Strategy 2025-2030}{31}{subsection.2.1.3}%
+\contentsline {subsubsection}{Open Access Research Contributions Till Date: Refer to papers Exhibit~\ref {chap:exhibit_l_p}}{32}{section*.27}%
+\contentsline {subsection}{\numberline {2.1.4}Endeavor Ongoing and Future Contributions as Peer Reviewer and Subject-Matter Expert (2025-3020)}{34}{subsection.2.1.4}%
+\contentsline {subsection}{\numberline {2.1.5}Final words on Prong 1: Alignment with National Interest}{35}{subsection.2.1.5}%
+\contentsline {chapter}{\numberline {3}Prong 2: Well-Positioned to Advance the Endeavor}{37}{chapter.3}%
+\contentsline {chapter}{\numberline {4}Prong 3: Balancing Factors}{39}{chapter.4}%
+\contentsline {subsection}{\numberline {4.0.1}National Interest Justification for PERM Waiver}{39}{subsection.4.0.1}%
+\contentsline {subsection}{\numberline {4.0.2}Peer-Reviewed Research Contributions to Policy Research for U.S. National Interest}{40}{subsection.4.0.2}%
+\contentsline {subsubsection}{Peer-Reviewed Publications by the Applicant}{40}{section*.29}%
+\contentsline {subsubsection}{Alignment with U.S. National Priorities}{41}{section*.30}%
+\contentsline {subsubsection}{Unique Editorial Contributions Strengthening U.S. Economic Stability}{41}{section*.31}%
+\contentsline {subsubsection}{Specialized Reviewing for Financial Risk Innovation}{41}{section*.32}%
+\contentsline {subsubsection}{Peer Review Value Proposition}{41}{section*.33}%
+\contentsline {subsection}{\numberline {4.0.3}Open Ebook Publications Supporting Policy and Workforce Innovation}{42}{subsection.4.0.3}%
+\contentsline {subsection}{\numberline {4.0.4}Conclusion}{43}{subsection.4.0.4}%
+\contentsline {section}{\numberline {4.1}Conclusion}{43}{section.4.1}%
+\contentsline {chapter}{\numberline {A}Exhibits List of Publications by Mr Joshi }{45}{appendix.A}%
+\contentsline {section}{\numberline {A.1}Papers authored by Mr Joshi Indexed in Science Gov }{45}{section.A.1}%
+\contentsline {section}{\numberline {A.2}Papers authored by Mr Joshi to enhance Stability of US Markets }{49}{section.A.2}%
+\contentsline {section}{\numberline {A.3}Education Policy Papers by Mr Joshi for Re-training US Workforce}{53}{section.A.3}%
+\contentsline {chapter}{\numberline {B}Exhibits Udemy }{60}{appendix.B}%
+\contentsline {section}{\numberline {B.1}Udemy: Current Enrollments in Open Access Free Education Initiatives}{60}{section.B.1}%
+\contentsline {chapter}{\numberline {C}Exhibits Two Open access books }{61}{appendix.C}%
+\contentsline {section}{\numberline {C.1}Gen AI for Workforce Development and Training}{61}{section.C.1}%
+\contentsline {section}{\numberline {C.2}Gen AI in Finance}{61}{section.C.2}%
+\contentsline {chapter}{\numberline {A}Exhibits 1 Resume}{62}{appendix.A}%
+\contentsline {chapter}{\numberline {B}Exhibits 2.1 Research Profiles and Citation}{63}{appendix.B}%
+\contentsline {section}{\numberline {B.1}Exhibits 2.1 Research Profiles}{63}{section.B.1}%
+\contentsline {section}{\numberline {B.2}Exhibits 2.2 Citations}{63}{section.B.2}%
+\contentsline {chapter}{\numberline {C}Exhibits 3 LORs and Recommender's Profile}{64}{appendix.C}%
+\contentsline {section}{\numberline {C.1}Exhibits 3.1 LORs}{64}{section.C.1}%
+\contentsline {section}{\numberline {C.2}Exhibits 3.2 Recommender's Profile}{64}{section.C.2}%
+\contentsline {chapter}{\numberline {D}Exhibits 4 Publications}{65}{appendix.D}%
+\contentsline {chapter}{\numberline {E}Exhibits 5 Academic Degrees and Evaluations}{66}{appendix.E}%
+\contentsline {chapter}{\numberline {F}Exhibits 6 Awards}{67}{appendix.F}%
+\contentsline {chapter}{\numberline {G}Exhibits 7 Review and Editorial Acclaims}{68}{appendix.G}%
+\contentsline {chapter}{\numberline {H}Exhibits 8 Professional Certification}{69}{appendix.H}%
+\contentsline {chapter}{\numberline {I}Exhibits 9 Volunteering Education Initiatives }{70}{appendix.I}%
+\contentsline {chapter}{\numberline {J}Exhibit 10 Work Experience EVLs }{71}{appendix.J}%
+\contentsline {chapter}{\numberline {K}Exhibit 11 H1B Status, WorkPaystubs W2s Income Verification }{72}{appendix.K}%
+\contentsline {chapter}{\numberline {L}Exhibit 12 BoFA Performance Reviews }{73}{appendix.L}%

@@ -1,0 +1,146 @@
+\documentclass[12pt, oneside]{book}  % Change to twoside if needed
+\usepackage{graphicx}   % For images
+\usepackage{hyperref}   % For clickable links
+\usepackage{geometry}
+\geometry{a4paper, margin=1in}
+\usepackage{hyperref}
+\usepackage{enumitem}
+\usepackage{array}
+\usepackage{longtable}
+\usepackage{geometry}
+\usepackage{pdfpages}
+\usepackage{tabularx} % Add this to your preamble
+\pagestyle{plain}  % Add page numbers (default style)
+
+\usepackage{enumitem}
+\usepackage{hyperref}
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{fancyhdr}
+\usepackage{lastpage}
+\usepackage{parskip}
+\usepackage{xcolor}
+\usepackage[normalem]{ulem}
+\usepackage{pgfplots}
+\usepackage{pgf-pie}
+\pgfplotsset{compat=1.18}
+\usepackage{tikz}
+\usepackage{graphicx}
+\usetikzlibrary{shadows, positioning}
+\definecolor{uscisblue}{RGB}{0,51,102}
+
+
+\pagestyle{fancy}
+%\fancyhf{}
+%\rfoot{\color{uscisblue}Page \thepage\ of \pageref{LastPage}}
+%\renewcommand{\headrulewidth}{0pt}
+\setlength{\headheight}{18pt}
+\setlength{\footskip}{60pt} % Push footer content lower
+
+\pagestyle{fancy}
+\fancyhf{}
+%\rhead{EB2-NIW RFE Response}
+%\rfoot{\textbf{Petitioner: Satyadhar Joshi, AVP, BoFA}}
+%\lfoot{Verified by Paralegal: John Doe} 
+\cfoot{Page \thepage\ of \pageref{LastPage}}
+%\rfoot{Receipt Number: IOE0931083103} 
+\renewcommand{\headrulewidth}{0pt}
+
+%\renewcommand{\headrulewidth}{0.4pt} % Header rule thickness
+\renewcommand{\footrulewidth}{0pt} % Footer rule thickness
+
+\begin{document}	
+	
+			
+	
+	\chapter*{Covering Letter}  
+	\input{covering_v4.tex} 
+	
+
+
+
+
+	
+	\chapter{Response to USCIS RFE: EB2 NIW Petition for Satyadhar Joshi}  % Explicitly add chapter headers if needed
+	\input{merged_rfe_v37.tex}    % Includes chapter1.tex exactly as it is
+	\appendix
+	
+
+
+
+		
+		
+		
+	
+	
+	\chapter{Exhibits  List of Publications by Mr Joshi }
+		\label{chap:exhibit_l_p}
+		\section{Papers authored by Mr Joshi Indexed in Science Gov }
+	\label{chap:exhibit_sgov}
+	\includepdf[pages=-,pagecommand={\thispagestyle{fancy}}, fitpaper=true]{papers/sgov1.pdf}
+	\includepdf[pages=-,pagecommand={\thispagestyle{fancy}}, fitpaper=true]{papers/sgov2.pdf}
+	
+		\includepdf[pages=-,pagecommand={\thispagestyle{fancy}}, fitpaper=true]{papers/sgov3.pdf}
+	
+	\section{Papers authored by Mr Joshi to enhance Stability of US Markets }
+
+\includepdf[pages=-,pagecommand={\thispagestyle{fancy}}, fitpaper=true]{papers/7.pdf}
+\includepdf[pages=-,pagecommand={\thispagestyle{fancy}}, fitpaper=true]{papers/2.pdf}
+\includepdf[pages=-, pagecommand={\thispagestyle{fancy}},fitpaper=true]{papers/3.pdf}
+\section{Education Policy Papers by Mr Joshi for Re-training US Workforce}
+
+\includepdf[pages=-, fitpaper=true]{papers/1.pdf}
+
+
+\includepdf[pages=-, pagecommand={\thispagestyle{fancy}},fitpaper=true]{papers/4.pdf}
+\includepdf[pages=-, pagecommand={\thispagestyle{fancy}},fitpaper=true]{papers/5.pdf}
+\includepdf[pages=-, pagecommand={\thispagestyle{fancy}},fitpaper=true]{papers/6.pdf}
+
+\includepdf[pages=-, fitpaper=true]{papers/8.pdf}
+\includepdf[pages=-, fitpaper=true]{papers/9.pdf}
+
+	\thispagestyle{plain}  	
+	
+	
+	\chapter{Exhibits Udemy  }
+			\label{chap:exhibit_udemy}
+\section{Udemy: Current Enrollments in Open Access Free Education Initiatives}
+%	\includepdf[pages=-,pagecommand={\thispagestyle{fancy}}, fitpaper=true]{udemy/udemy.pdf}
+
+	
+
+	
+	\chapter{Exhibits  Two Open access books		}
+			\label{chap:exhibit_ebooks}
+\section {Gen AI for Workforce Development and Training}
+%	\includepdf[pages=-,pagecommand={\thispagestyle{fancy}}, fitpaper=true]{ebooks/1_workforce_development.pdf}
+
+	
+	\section {Gen AI in Finance}
+%	\includepdf[pages=-,pagecommand={\thispagestyle{fancy}}, fitpaper=true]{ebooks/2_gen_ai_finance.pdf}
+
+	
+	
+	
+	%	\chapter{Exhibits G Placeholder	}
+	%\clearpage  % Ensures the PDF starts on a new page
+	%\includepdf[pages=-, fitpaper=true]{placeholder.pdf}
+	%\thispagestyle{plain}  	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+%	\section{Resume Dr Professor Anjum}
+	
+	
+
+
+	
+\end{document}

@@ -1,0 +1,122 @@
+\documentclass[12pt, oneside]{book}  % Change to twoside if needed
+\usepackage{graphicx}   % For images
+\usepackage{hyperref}   % For clickable links
+\usepackage{geometry}
+\geometry{a4paper, margin=1in}
+\usepackage{hyperref}
+\usepackage{enumitem}
+\usepackage{array}
+\usepackage{longtable}
+\usepackage{geometry}
+\usepackage{pdfpages}
+\usepackage{tabularx} % Add this to your preamble
+\pagestyle{plain}  % Add page numbers (default style)
+
+\begin{document}
+	
+	\frontmatter  % No chapter numbering before main content
+	\title{EB2 National Interest Waiver (NIW) Application}
+	\author{Satyadhar Joshi}
+	\date{\today}
+	\maketitle
+	
+	\tableofcontents  % Auto-generate table of contents
+	
+	\mainmatter % Start numbering chapters from here
+	
+		\chapter{Form I-907, I-140, G-1450, G-1145, ETA-9089 Appendix A }  % Explicitly add chapter headers if needed
+\includepdf[pages=-]{i140.pdf}
+	
+	
+	\chapter{Covering Letter}  % Explicitly add chapter headers if needed
+	\input{chapter1.tex}    % Includes chapter1.tex exactly as it is
+	
+	\chapter{Satyadhar Joshi as a Top Proven Multidisciplinary Researcher}
+	\input{chapter2.tex}
+	
+	\chapter{Critical Role / Reviewer of Peer Risk Models and Code at Global Analytics Model Implementation Team BoFA}
+	\input{chapter3.tex}
+			
+	\chapter{Peer Review, Code Review, and Peer Training by Satyadhar Joshi}
+	\input{chapter4.tex}
+	
+						
+	\chapter{Membership in a professional association: The FRM License }
+	\input{chapter6.tex}
+				
+	\chapter{Future Endeavors and Impact in US National Interest by Satyadhar Joshi}
+	\input{chapter5_v2.tex}
+	
+
+	
+	\appendix
+	
+\chapter{Exhibits 1 Resume}
+
+\clearpage  % Ensures the PDF starts on a new page
+
+\includepdf[pages=-, fitpaper=true]{resume.pdf}
+		\thispagestyle{plain}  % Apply page numbers to the inserted PDF page
+	
+		\chapter{Exhibits 2.1 Research Profiles and Citation}
+	\section{Exhibits 2.1 Research Profiles}
+	
+
+	
+	\includepdf[pages=-, fitpaper=true]{research_profiles.pdf}
+		\thispagestyle{plain}  % Apply page numbers to the inserted PDF page
+	
+	
+		\section{Exhibits 2.2 Citations}
+	
+	
+	
+	\includepdf[pages=-, fitpaper=true]{citations.pdf}
+		\thispagestyle{plain}  % Apply page numbers to the inserted PDF page
+	
+	
+		\chapter{Exhibits 3 LORs and Recommender's Profile}
+				\section{Exhibits 3.1 LORs}
+		
+		\includepdf[pages=-]{lor.pdf}
+		\section{Exhibits 3.2 Recommender's Profile}
+				\includepdf[pages=-, fitpaper=true]{lor_profile.pdf}
+				
+	\chapter{Exhibits 4 Publications}
+		\clearpage  % Ensures the PDF starts on a new page
+		\includepdf[pages=-, fitpaper=true]{all_papers.pdf}
+	%	\includepdf[pages=-]{reviews/publons.pdf}
+				
+							
+				
+			\chapter{Exhibits 5 Academic Degrees and Evaluations}								
+			\includepdf[pages=-, fitpaper=true]{transcript_small.pdf}
+			
+					\chapter{Exhibits 6 Awards}								
+			\includepdf[pages=-, fitpaper=true]{reward.pdf}
+			
+						
+			\chapter{Exhibits 7 Review and Editorial Acclaims}								
+			\includepdf[pages=-, fitpaper=true]{reviews.pdf}
+			
+				\chapter{Exhibits 8 Professional Certification}								
+			\includepdf[pages=-]{frm.pdf}
+			
+						\chapter{Exhibits 9 Volunteering Education Initiatives }								
+			\includepdf[pages=-, fitpaper=true]{volunteering.pdf}
+			
+						\chapter{Exhibit 10 Work Experience EVLs }								
+				\includepdf[pages=-, fitpaper=true]{evl.pdf}
+				
+										\chapter{Exhibit 11 H1B Status, WorkPaystubs W2s Income Verification }								
+				\includepdf[pages=-, fitpaper=true]{w2.pdf}
+				\includepdf[pages=-, fitpaper=true]{./status/h1b.pdf}
+							
+				\chapter{Exhibit 12 BoFA Performance Reviews }								
+				\includepdf[pages=-, fitpaper=true]{perf.pdf}
+				
+				
+	\backmatter % Appendices, bibliography, etc.
+
+	
+\end{document}

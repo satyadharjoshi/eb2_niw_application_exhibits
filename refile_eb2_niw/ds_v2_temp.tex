@@ -1,0 +1,115 @@
+\documentclass[12pt, oneside]{book}  % Change to twoside if needed
+\usepackage{graphicx}   % For images
+\usepackage{hyperref}   % For clickable links
+\usepackage{geometry}
+\geometry{a4paper, margin=1in}
+\usepackage{hyperref}
+\usepackage{enumitem}
+\usepackage{array}
+\usepackage{longtable}
+\usepackage{geometry}
+\usepackage{pdfpages}
+\usepackage{tabularx} % Add this to your preamble
+\usepackage{graphicx}   % For images
+\usepackage{hyperref}   % For clickable links
+\usepackage{geometry}
+\geometry{a4paper, margin=1in}
+\usepackage{hyperref}
+\usepackage{enumitem}
+\usepackage{array}
+\usepackage{longtable}
+\usepackage{geometry}
+\usepackage{pdfpages}
+\usepackage{tabularx} % Add this to your preamble
+\pagestyle{plain}  % Add page numbers (default style)
+
+\usepackage{enumitem}
+\usepackage{hyperref}
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{fancyhdr}
+\usepackage{lastpage}
+\usepackage{parskip}
+\usepackage{xcolor}
+\usepackage[normalem]{ulem}
+\usepackage{pgfplots}
+\usepackage{pgf-pie}
+\pgfplotsset{compat=1.18}
+\usepackage{tikz}
+\usepackage{graphicx}
+\usetikzlibrary{shadows, positioning}
+\definecolor{uscisblue}{RGB}{0,51,102}
+% Exhibit counter
+\newcounter{exhibitcounter}
+\newcommand{\exhibit}{\stepcounter{exhibitcounter}Exhibit \arabic{exhibitcounter}}
+\newcommand{\exhibitref}[1]{\Alph{exhibitcounter}}
+
+
+
+\pagestyle{plain}  % Add page numbers (default style)
+
+
+\begin{document}
+	
+	\frontmatter  % No chapter numbering before main content
+\title{EB2 National Interest Waiver (NIW) Application}
+\author{Satyadhar Joshi}
+\date{\today}
+\maketitle
+
+\tableofcontents  % Auto-generate table of contents
+
+\mainmatter % Start numbering chapters from here
+
+
+
+	\chapter{Introduction and Executive Summary}
+\input{intro.tex} % You may want to rename this file
+
+	
+	\chapter{Proposed Endeavor: National Interest Statement}
+\input{endeavor.tex} % You may want to rename this file
+
+\chapter{Uniqueness and Innovation of Proposed Methodology}
+\input{uniqueness.tex} % You may want to rename this file
+
+
+\chapter{Potential Prospective Impact (PPI)}
+\input{ppi.tex} % You may want to rename this file
+	
+\chapter{Prong 1: Substantial Merit and National Importance}
+	\input{prong1.tex} % You may want to rename this file
+
+
+	
+	\chapter{Prong 2: Well-Positioned to Advance the Endeavor}
+	\input{prong2.tex} % You may want to rename this file
+	
+\chapter{Prong 3: Balancing Factors}
+	\input{prong3.tex} % You may want to rename this file
+	
+
+	
+\chapter{Conclusion: Comprehensive Response to USCIS Past Denial}
+	\input{conclusion.tex} % You may want to rename this file
+	
+	
+	
+	
+
+%		\chapter{Exhibits}
+%	\input{exhibits.tex} % You may want to rename this file
+	
+
+
+
+
+\backmatter % Appendices, bibliography, etc.
+	
+	
+	
+	
+	
+	
+\end{document}

@@ -1,0 +1,338 @@
+\documentclass[12pt, oneside]{book}  % Change to twoside if needed
+\usepackage{graphicx}   % For images
+\usepackage{hyperref}   % For clickable links
+\usepackage{geometry}
+\geometry{a4paper, margin=1in}
+\usepackage{hyperref}
+\usepackage{enumitem}
+\usepackage{array}
+\usepackage{longtable}
+\usepackage{geometry}
+\usepackage{pdfpages}
+\usepackage{tabularx} % Add this to your preamble
+\pagestyle{plain}  % Add page numbers (default style)
+
+\usepackage{enumitem}
+\usepackage{hyperref}
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{fancyhdr}
+\usepackage{lastpage}
+\usepackage{parskip}
+\usepackage{xcolor}
+\usepackage[normalem]{ulem}
+\usepackage{pgfplots}
+\usepackage{pgf-pie}
+\pgfplotsset{compat=1.18}
+\usepackage{tikz}
+\usepackage{graphicx}
+\usetikzlibrary{shadows, positioning}
+\definecolor{uscisblue}{RGB}{0,51,102}
+
+
+\pagestyle{fancy}
+%\fancyhf{}
+%\rfoot{\color{uscisblue}Page \thepage\ of \pageref{LastPage}}
+%\renewcommand{\headrulewidth}{0pt}
+\setlength{\headheight}{18pt}
+\setlength{\footskip}{60pt} % Push footer content lower
+
+\pagestyle{fancy}
+\fancyhf{}
+%\rhead{EB2-NIW RFE Response}
+%\rfoot{\textbf{Petitioner: Satyadhar Joshi, AVP, BoFA}}
+%\lfoot{Verified by Paralegal: John Doe} 
+\cfoot{Page \thepage\ of \pageref{LastPage}}
+%\rfoot{Receipt Number: IOE0931083103} 
+\renewcommand{\headrulewidth}{0pt}
+
+%\renewcommand{\headrulewidth}{0.4pt} % Header rule thickness
+\renewcommand{\footrulewidth}{0pt} % Footer rule thickness
+
+\begin{document}	
+	
+			
+	
+	\chapter*{Covering Letter}  
+	\input{covering_v4.tex} 
+	
+
+
+
+
+	
+		\clearpage  % Ensures the PDF starts on a new page
+					\section{ RFE notice}
+	\thispagestyle{plain}  
+%	\includepdf[pages=-, fitpaper=true]{receipt.pdf}
+	
+	\clearpage  % Ensures the PDF starts on a new page
+
+
+\section{Petitioner’s Statement of Intent and National Interest Declaration}  
+\input{declaration.tex} 
+
+
+		
+	\frontmatter  % No chapter numbering before main content
+	\title{Response to USCIS RFE: EB2 NIW Petition for Satyadhar Joshi}
+	\author{Satyadhar Joshi}
+	\date{\today}
+	\maketitle	
+	
+	\tableofcontents  % Auto-generate table of contents
+	\mainmatter % Start numbering chapters from here		
+	
+\chapter{Exhibits Two Pages for i 140 and Resume }
+\label{chap:i140}
+
+%	\section{ Initial I-140 receipt}
+
+%\includepdf[pages=-, fitpaper=true]{receipt.pdf}
+
+\section{ Missing Information for I-140}
+
+\includepdf[pages=-, pagecommand={\thispagestyle{fancy}}, fitpaper=true]{2_pages.pdf}
+	
+	\chapter{Response to USCIS RFE: EB2 NIW Petition for Satyadhar Joshi}  % Explicitly add chapter headers if needed
+	\input{merged_rfe_v37.tex}    % Includes chapter1.tex exactly as it is
+	\appendix
+	
+
+
+
+		
+		
+		
+	
+	
+	\chapter{Exhibits  List of Publications by Mr Joshi }
+		\label{chap:exhibit_l_p}
+		\section{Papers authored by Mr Joshi Indexed in Science Gov }
+	\label{chap:exhibit_sgov}
+	\includepdf[pages=-,pagecommand={\thispagestyle{fancy}}, fitpaper=true]{papers/sgov1.pdf}
+	\includepdf[pages=-,pagecommand={\thispagestyle{fancy}}, fitpaper=true]{papers/sgov2.pdf}
+	
+		\includepdf[pages=-,pagecommand={\thispagestyle{fancy}}, fitpaper=true]{papers/sgov3.pdf}
+	
+	\section{Papers authored by Mr Joshi to enhance Stability of US Markets }
+
+\includepdf[pages=-,pagecommand={\thispagestyle{fancy}}, fitpaper=true]{papers/7.pdf}
+\includepdf[pages=-,pagecommand={\thispagestyle{fancy}}, fitpaper=true]{papers/2.pdf}
+\includepdf[pages=-, pagecommand={\thispagestyle{fancy}},fitpaper=true]{papers/3.pdf}
+\section{Education Policy Papers by Mr Joshi for Re-training US Workforce}
+
+\includepdf[pages=-, fitpaper=true]{papers/1.pdf}
+
+
+\includepdf[pages=-, pagecommand={\thispagestyle{fancy}},fitpaper=true]{papers/4.pdf}
+\includepdf[pages=-, pagecommand={\thispagestyle{fancy}},fitpaper=true]{papers/5.pdf}
+\includepdf[pages=-, pagecommand={\thispagestyle{fancy}},fitpaper=true]{papers/6.pdf}
+
+\includepdf[pages=-, fitpaper=true]{papers/8.pdf}
+\includepdf[pages=-, fitpaper=true]{papers/9.pdf}
+
+	\thispagestyle{plain}  	
+	
+	
+	\chapter{Exhibits Udemy  }
+			\label{chap:exhibit_udemy}
+\section{Udemy: Current Enrollments in Open Access Free Education Initiatives}
+	\includepdf[pages=-,pagecommand={\thispagestyle{fancy}}, fitpaper=true]{udemy/udemy.pdf}
+
+	
+
+	
+	\chapter{Exhibits  Two Open access books		}
+			\label{chap:exhibit_ebooks}
+\section {Gen AI for Workforce Development and Training}
+	\includepdf[pages=-,pagecommand={\thispagestyle{fancy}}, fitpaper=true]{ebooks/1_workforce_development.pdf}
+
+	
+	\section {Gen AI in Finance}
+	\includepdf[pages=-,pagecommand={\thispagestyle{fancy}}, fitpaper=true]{ebooks/2_gen_ai_finance.pdf}
+
+	
+	
+	
+	%	\chapter{Exhibits G Placeholder	}
+	%\clearpage  % Ensures the PDF starts on a new page
+	%\includepdf[pages=-, fitpaper=true]{placeholder.pdf}
+	%\thispagestyle{plain}  	
+	
+	
+	
+	
+	
+	
+		\chapter{Exhibits Appreciations and Recommendation 	}
+				\label{chap:exhibit_appreciations}
+\section {Appreciation Messages on Linkedin }
+	\includepdf[pages=-,pagecommand={\thispagestyle{fancy}}, fitpaper=true]{appreciations/linkedin1.pdf}
+
+		\includepdf[pages=-, fitpaper=true]{appreciations/linkedin2.pdf}
+
+\section{Many Researchers Recommending Mr Joshi on ResearchGate}
+			\includepdf[pages=-, fitpaper=true]{appreciations/research_gate.pdf}
+	
+	
+	
+	
+			\chapter{Exhibits   Expert Opinion by Dr Anjum	}
+	\label{chap:exhibit_anjum}
+	\section{Independent Expert Opinion Letter from Dr. Anjum, India  }
+	
+	\includepdf[
+	pages=-,
+	pagecommand={\thispagestyle{plain}},  % Apply standard page style
+	fitpaper=true,                        % Scale to fit the page
+	scale=0.95,                           % Optional: slightly reduce size if it overflows
+	offset=0 0,                           % Adjust position if needed
+	frame=false
+	]{expert_opinion/anjum.pdf}
+	
+	
+	
+%	\section{Resume Dr Professor Anjum}
+	
+	
+	
+%	\includepdf[pages=-,pagecommand={\thispagestyle{fancy}}, fitpaper=true]{expert_opinion/1.2_asif_resume.pdf}
+	\thispagestyle{plain}  % Apply page numbers to the inserted PDF page
+	
+	
+		\chapter{Exhibits   Expert Opinion by Dr Asif	}
+				\label{chap:exhibit_asif}
+\section{Independent Expert Opinion Letter from Dr. Asif Umer from Hazara University, Pakistan  }
+
+\includepdf[
+pages=-,
+pagecommand={\thispagestyle{plain}},  % Apply standard page style
+fitpaper=true,                        % Scale to fit the page
+scale=0.95,                           % Optional: slightly reduce size if it overflows
+offset=0 0,                           % Adjust position if needed
+frame=false
+]{expert_opinion/1.1_asif.pdf}
+
+	
+	
+			\section{Resume Dr Professor Asif Umer}
+	
+	
+	
+	\includepdf[pages=-,pagecommand={\thispagestyle{fancy}}, fitpaper=true]{expert_opinion/1.2_asif_resume.pdf}
+	\thispagestyle{plain}  % Apply page numbers to the inserted PDF page
+	
+	
+		\chapter{Exhibits Expert Opinion by Dr Malik	}
+		\label{chap:exhibit_malik}
+\section {Independent Expert Opinion Letter Dr. Malik Missan, Assistant Professor, University of Bhawalpur, Pakistan 	}
+	\includepdf[pages=-, pagecommand={\thispagestyle{fancy}}, fitpaper=true]{expert_opinion/2.1_malik_v2.pdf}
+\thispagestyle{plain}  	
+\section{Resume Dr. Malik Missan}
+\includepdf[pages=-, pagecommand={\thispagestyle{fancy}},fitpaper=true]{expert_opinion/2.2_malik_resume.pdf}
+\thispagestyle{plain}  % Apply page numbers to the inserted PDF page
+	
+
+	
+	
+		
+\chapter{Exhibits  Independent Opinion Letter by Dr. Rozeia Mustafa 	}
+	\label{chap:rozeia}
+\section{Independent Expert Opinion by Dr. Rozeia Mustafa Royal College of Management Sciences, Pakistan
+  }
+\includepdf[pages=-, pagecommand={\thispagestyle{fancy}}, fitpaper=true]{expert_opinion/rozeia.pdf}
+\thispagestyle{plain}  	
+\section{Resume of Dr. Rozeia Mustafa}
+\includepdf[pages=-,pagecommand={\thispagestyle{fancy}},fitpaper=true]{expert_opinion/rozeia_resume.pdf}
+\thispagestyle{plain}  % Apply page numbers to the inserted PDF page
+
+
+	
+
+
+\chapter{Exhibits  Independent Opinion Letter by Dr. Sheraz Ahmed}
+\label{chap:sheraz}
+\section{Independent Expert Opinion by 	Associate Professor Dr. Sheraz Ahmed International College of Management Sciences (ICMS) Pakistan
+}
+\includepdf[pages=-, pagecommand={\thispagestyle{fancy}}, fitpaper=true]{expert_opinion/sheraz.pdf}
+\thispagestyle{plain}  	
+\section{Resume of Dr. Sheraz Ahmed}
+\includepdf[pages=-,pagecommand={\thispagestyle{fancy}},fitpaper=true]{expert_opinion/sheraz_resume.pdf}
+\thispagestyle{plain}  % Apply page numbers to the inserted PDF page
+
+
+
+
+
+
+
+
+		\chapter{Exhibits  Independent Opinion Letter by Dr Kamran	}
+\label{chap:exhibit_kamran}
+
+\section{Independent Expert Opinion Letter from Dr Kamran Toor Senior Professor, Meridian School, Pakistan}
+\includepdf[pages=-, pagecommand={\thispagestyle{fancy}}, fitpaper=true]{expert_opinion/3.1_zohib.pdf}
+\thispagestyle{plain}  	
+
+
+\section{Resume and Affidavit of Independent Review by Dr Professor Kamran Toor}
+
+\includepdf[pages=-,pagecommand={\thispagestyle{fancy}}, fitpaper=true]{expert_opinion/zohit_resume.pdf}
+\thispagestyle{plain}  % Apply page numbers to the inserted PDF page
+
+
+\includepdf[pages=-,pagecommand={\thispagestyle{fancy}}, fitpaper=true]{expert_opinion/3.2_zohit_Affidavit.pdf}
+\thispagestyle{plain}  % Apply page numbers to the inserted PDF page
+
+
+
+
+
+			
+	\chapter{Exhibits Testimonial by Mr Gupta  	}
+		\label{chap:exhibit_ankit}
+\section{Industry Testimonial LOR from Mr  Gupta (Royal Bank of Scotland)  recommending that the research endeavor is of substantial merit and contributors beyond employment and EVL}
+
+	\includepdf[pages=-,pagecommand={\thispagestyle{fancy}}, fitpaper=true]{lor/2.1_Ankit_Gupta_LOR.pdf}
+\thispagestyle{plain}  % Apply page numbers to the inserted PDF page
+
+%\section{EVL}	
+
+
+
+
+\section{Resume Mr Ankit Gupta}
+
+
+
+\includepdf[pages=-, pagecommand={\thispagestyle{fancy}},fitpaper=true]{lor/2.2_Ankit_resume.pdf}
+\thispagestyle{plain}  % Apply page numbers to the inserted PDF page
+
+
+	\chapter{Exhibits Testimonial by Mr Gaurav	}
+			\label{chap:exhibit_gaurav}
+
+\section{Industry Testimonial LOR from Mr Gaurav Sharma (AXA XL Global Commercial Insurance and Reinsurance and EVL}
+
+	\includepdf[pages=-, pagecommand={\thispagestyle{fancy}},fitpaper=true]{lor/8.1_Gaurav_Sharma_LOR_signed.pdf}
+\thispagestyle{plain}  	
+
+%	\includepdf[pages=-, pagecommand={\thispagestyle{fancy}}, fitpaper=true]{lor/evl_gs.pdf}
+\thispagestyle{plain}  % Apply page numbers to the inserted PDF page
+
+\section{Resume Mr Gaurav Sharma}
+
+
+
+\includepdf[pages=-,pagecommand={\thispagestyle{fancy}}, fitpaper=true]{lor/8.2_Gaurav_Resume.pdf}
+\thispagestyle{plain}  % Apply page numbers to the inserted PDF page
+
+	
+				
+				
+	\backmatter % Appendices, bibliography, etc.
+
+	
+\end{document}

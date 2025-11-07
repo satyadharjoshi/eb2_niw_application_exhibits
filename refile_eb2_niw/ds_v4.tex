@@ -1,0 +1,158 @@
+\documentclass[12pt, oneside]{book}  % Change to twoside if needed
+\usepackage{graphicx}   % For images
+\usepackage{hyperref}   % For clickable links
+\usepackage{geometry}
+\geometry{a4paper, margin=1in}
+\usepackage{hyperref}
+\usepackage{enumitem}
+\usepackage{array}
+\usepackage{longtable}
+\usepackage{geometry}
+\usepackage{pdfpages}
+\usepackage{tabularx} % Add this to your preamble
+\usepackage{graphicx}   % For images
+\usepackage{hyperref}   % For clickable links
+\usepackage{geometry}
+\geometry{a4paper, margin=1in}
+\usepackage{hyperref}
+\usepackage{enumitem}
+\usepackage{array}
+\usepackage{longtable}
+\usepackage{geometry}
+\usepackage{pdfpages}
+\usepackage{tabularx} % Add this to your preamble
+\pagestyle{plain}  % Add page numbers (default style)
+
+\usepackage{enumitem}
+\usepackage{hyperref}
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{fancyhdr}
+\usepackage{lastpage}
+\usepackage{parskip}
+\usepackage{xcolor}
+\usepackage[normalem]{ulem}
+\usepackage{pgfplots}
+\usepackage{pgf-pie}
+\pgfplotsset{compat=1.18}
+\usepackage{tikz}
+\usepackage{graphicx}
+\usetikzlibrary{shadows, positioning}
+\definecolor{uscisblue}{RGB}{0,51,102}
+% Exhibit counter
+\newcounter{exhibitcounter}
+\newcommand{\exhibit}{\stepcounter{exhibitcounter}Exhibit \arabic{exhibitcounter}}
+\newcommand{\exhibitref}[1]{\Alph{exhibitcounter}}
+
+
+
+\pagestyle{plain}  % Add page numbers (default style)
+
+
+\begin{document}
+	
+	\frontmatter  % No chapter numbering before main content
+\title{EB2 National Interest Waiver (NIW) Application}
+\author{Satyadhar Joshi}
+\date{\today}
+\maketitle
+
+\tableofcontents  % Auto-generate table of contents
+
+\mainmatter % Start numbering chapters from here
+
+		\chapter*{Form I-907: Request for Premium Processing Service}
+\includepdf[pages=-, pagecommand={\thispagestyle{fancy}},fitpaper=true]{forms/i-907_v2.pdf}
+\thispagestyle{plain} 
+
+\chapter*{Form I-140: Immigrant Petition for Alien Workers}
+\includepdf[pages=-, pagecommand={\thispagestyle{fancy}},fitpaper=true]{forms/i-140_v11.pdf}
+\thispagestyle{plain} 
+
+
+\chapter*{Form G-1450: USCIS Payment Receipt (Credit Card Authorization)}
+\includepdf[pages=-, pagecommand={\thispagestyle{fancy}},fitpaper=true]{forms/g-1450.pdf}
+\thispagestyle{plain} 
+
+
+\chapter*{Form G-1145: USCIS e-Notification Request (Optional)}
+\includepdf[pages=-, pagecommand={\thispagestyle{fancy}},fitpaper=true]{forms/g-1145.pdf}
+\thispagestyle{plain}
+
+
+\chapter*{ETA-9089 Appendix A}
+\includepdf[pages=-, pagecommand={\thispagestyle{fancy}},fitpaper=true]{forms/ETA-9089_v2.pdf}
+\thispagestyle{plain}
+
+
+
+	\chapter{Introduction and Executive Summary}
+\input{intro.tex} % You may want to rename this file
+
+	
+	\chapter{Proposed Endeavor: National Interest Statement}
+\input{endeavor_v2.tex} % You may want to rename this file
+
+	\chapter{Proven Contributions to Defense, Secure Multi Party Computation and Cyber Security}
+\input{defense.tex} % You may want to rename this file
+
+
+
+
+\chapter{Uniqueness and Innovation of Proposed Methodology}
+\input{uniqueness.tex} % You may want to rename this file
+
+
+\chapter{Potential Prospective Impact (PPI)}
+\input{ppi.tex} % You may want to rename this file
+	
+\chapter{Prong 1: Substantial Merit and National Importance}
+	\input{prong1_v2.tex} % You may want to rename this file
+
+
+	
+	\chapter{Prong 2: Well-Positioned to Advance the Endeavor}
+	\input{prong2.tex} % You may want to rename this file
+	
+\chapter{Prong 3: Balancing Factors}
+	\input{prong3.tex} % You may want to rename this file
+	
+
+	
+\chapter{Conclusion: Comprehensive Response to USCIS Past Denial}
+	\input{conclusion.tex} % You may want to rename this file
+	
+	
+	
+		\chapter{Recent Contributions}
+	\input{recent_contributions.tex} % You may want to rename this file
+
+
+
+
+\chapter{Exhibits Documentation}
+	\input{exhibit_documentation_v2.tex} % You may want to rename this file
+
+
+
+		\chapter{Exhibits}
+	\input{exhibits_v4.tex} % You may want to rename this file
+
+
+%\chapter{Exhibits: Expert Opinion Letters }
+%\input{eol.tex} % You may want to rename this file
+
+	
+
+
+
+
+\backmatter % Appendices, bibliography, etc.
+	
+	
+	
+	
+	
+	
+\end{document}

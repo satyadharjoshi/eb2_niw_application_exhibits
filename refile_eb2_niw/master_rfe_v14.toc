@@ -1,0 +1,48 @@
+\contentsline {chapter}{\numberline {1}Response to USCIS RFE: EB2 NIW Petition for Satyadhar Joshi}{3}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Introduction}{2}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Form I-140 Completeness Information}{2}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}Adjustment of Status }{2}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}Job Description and SOC Code}{3}{subsection.1.2.2}%
+\contentsline {section}{\numberline {1.3}Summarizing RFE and Response to RFE Deficiencies}{3}{section.1.3}%
+\contentsline {chapter}{\numberline {2}Prong 1: Substantial Merit and National Importance}{5}{chapter.2}%
+\contentsline {subsection}{\numberline {2.0.1}Substantial Merit}{5}{subsection.2.0.1}%
+\contentsline {subsubsection}{Evidence of National Importance through Federal Scientific Indexing}{7}{section*.7}%
+\contentsline {subsubsection}{Projected Impact and Future Work}{7}{section*.8}%
+\contentsline {subsection}{\numberline {2.0.2}U.S. Training Initiatives by Open Non-Profit and Research Center}{8}{subsection.2.0.2}%
+\contentsline {subsection}{\numberline {2.0.3}Non-Profit Policy Research Center for Financial AI}{9}{subsection.2.0.3}%
+\contentsline {subsection}{\numberline {2.0.4}Detailed Proposed Endeavor in Three Domains}{10}{subsection.2.0.4}%
+\contentsline {subsubsection}{AI-Driven Financial Risk Management Endeavor}{11}{section*.9}%
+\contentsline {subsubsection}{Workforce Upskilling for AI Integration Endeavor}{11}{section*.10}%
+\contentsline {subsubsection}{Regulatory-Compliant AI Agents Research Endeavor }{12}{section*.11}%
+\contentsline {subsubsection}{Strategic Policy Development Research Endeavor}{12}{section*.12}%
+\contentsline {section}{\numberline {2.1}Projected Five-Year Endeavor and National Economic Impact}{12}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Five-Year Plan for Advancing Financial AI (2025-2030)}{14}{subsection.2.1.1}%
+\contentsline {subsubsection}{Endeavor Research and Publication Goals}{14}{section*.13}%
+\contentsline {subsubsection}{Endeavor Workforce Development Initiatives}{15}{section*.14}%
+\contentsline {subsubsection}{Endeavor Technology Implementation Roadmap}{16}{section*.15}%
+\contentsline {subsection}{\numberline {2.1.2}Endeavor Open Source Free Course and Training Content Production Roadmap}{16}{subsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.1.3}Future Endeavor and Research Dissemination Strategy 2025-2030}{16}{subsection.2.1.3}%
+\contentsline {subsubsection}{Open Access Research Contributions Till Date: Refer to papers Exhibit~\ref {chap:exhibit_l_p}}{17}{section*.16}%
+\contentsline {subsection}{\numberline {2.1.4}Endeavor Ongoing and Future Contributions as Peer Reviewer and Subject-Matter Expert (2025-3020)}{19}{subsection.2.1.4}%
+\contentsline {subsection}{\numberline {2.1.5}Final words on Prong 1: Alignment with National Interest}{20}{subsection.2.1.5}%
+\contentsline {chapter}{\numberline {3}Prong 2: Well-Positioned to Advance the Endeavor}{22}{chapter.3}%
+\contentsline {chapter}{\numberline {4}Prong 3: Balancing Factors}{24}{chapter.4}%
+\contentsline {subsection}{\numberline {4.0.1}National Interest Justification for PERM Waiver}{24}{subsection.4.0.1}%
+\contentsline {subsection}{\numberline {4.0.2}Peer-Reviewed Research Contributions to Policy Research for U.S. National Interest}{25}{subsection.4.0.2}%
+\contentsline {subsubsection}{Peer-Reviewed Publications by the Applicant}{25}{section*.18}%
+\contentsline {subsubsection}{Alignment with U.S. National Priorities}{26}{section*.19}%
+\contentsline {subsubsection}{Unique Editorial Contributions Strengthening U.S. Economic Stability}{26}{section*.20}%
+\contentsline {subsubsection}{Specialized Reviewing for Financial Risk Innovation}{26}{section*.21}%
+\contentsline {subsubsection}{Peer Review Value Proposition}{26}{section*.22}%
+\contentsline {subsection}{\numberline {4.0.3}Open Ebook Publications Supporting Policy and Workforce Innovation}{27}{subsection.4.0.3}%
+\contentsline {subsection}{\numberline {4.0.4}Conclusion}{28}{subsection.4.0.4}%
+\contentsline {section}{\numberline {4.1}Conclusion}{28}{section.4.1}%
+\contentsline {chapter}{\numberline {A}Exhibits List of Publications by Mr Joshi }{29}{appendix.A}%
+\contentsline {section}{\numberline {A.1}Papers authored by Mr Joshi Indexed in Science Gov }{29}{section.A.1}%
+\contentsline {section}{\numberline {A.2}Papers authored by Mr Joshi to enhance Stability of US Markets }{33}{section.A.2}%
+\contentsline {section}{\numberline {A.3}Education Policy Papers by Mr Joshi for Re-training US Workforce}{37}{section.A.3}%
+\contentsline {chapter}{\numberline {B}Exhibits Udemy }{44}{appendix.B}%
+\contentsline {section}{\numberline {B.1}Udemy: Current Enrollments in Open Access Free Education Initiatives}{44}{section.B.1}%
+\contentsline {chapter}{\numberline {C}Exhibits Two Open access books }{45}{appendix.C}%
+\contentsline {section}{\numberline {C.1}Gen AI for Workforce Development and Training}{45}{section.C.1}%
+\contentsline {section}{\numberline {C.2}Gen AI in Finance}{45}{section.C.2}%
