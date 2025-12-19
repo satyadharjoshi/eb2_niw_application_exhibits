@@ -107,7 +107,7 @@ I offer guidance **without charge** because:
 1. You come prepared with specific questions
 2. You've reviewed this resource first
 3. You understand I'm a mentor, not a lawyer
-4. You pay the guidance forward someday
+4. You pay the guidance forward someday by helping someone
 
 ### **Available for:**
 - **Brief Questions**: Email or LinkedIn messages
@@ -184,7 +184,7 @@ Remember: **This is free community resource.** Take what helps, leave what doesn
 **Focus Areas**: Research strategy, EB2 NIW guidance, academic development
 **Communication Style**: Direct, honest, supportive
 
-**Remember**: I help because I want to, not because I need to. Pay it forward when you can.
+**Remember**: I help because I want to, not because I need to. Pay it forward when you can by helping someomne.
 
 ---
 
