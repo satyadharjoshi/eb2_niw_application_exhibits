@@ -1,4 +1,4 @@
-# 📋 EB2 NIW Application Portfolio & Mentoring Resource
+# 📋 National Interest Waiver Green Card Application Portfolio & Mentoring Resource
 
 **Satyadhar Joshi | Research Mentor | Community Volunteer | EB2 NIW Guide**
 
