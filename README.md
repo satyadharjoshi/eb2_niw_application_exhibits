@@ -1,4 +1,5 @@
 # 📋 National Interest Waiver Green Card Application Portfolio & Mentoring Resource
+# Prepared by applicant. Under review by attorney Justin Kadich — talkto@yourgreencardlawyer.com
 
 **Satyadhar Joshi | Research Mentor | Community Volunteer | EB2 NIW Guide**
 
